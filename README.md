@@ -31,8 +31,6 @@
 <br/>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisolsen&hide=java,ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisolsen&hide=java,ruby)](https://chrisolsen.github.io)
 
-![Chris Olsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisolsen&show_icons=true&count_private=true)
-
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[![Chris Olsen's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisolsen&show_icons=true&count_private=true)](https://chrisolsen.github.io)
