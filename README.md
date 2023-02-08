@@ -1,9 +1,9 @@
 # Hi there, I'm Chris 👋
 
-### I am a
-- 😅 I’m currently working on raising a two year old
-- 🌱 I’m currently learning Nim
-- 🏃 Fun fact: My goal for summer of 2022 is a 50km ultra-marathon
+### Me
+- 😅 I’m currently working on raising a three year old
+- 🌱 I’m currently learning Elixir/Phoenix
+- 🏃 Fun fact: My goal for sometime soon is a 50km ultra-marathon
 
 ### 💻 Languages
 
