@@ -1,8 +1,7 @@
 # Hi there, I'm Chris 👋
 
 ### Me
-- 😅 I’m currently working on raising a three year old
-- 🌱 I’m currently learning Elixir/Phoenix
+- 😅 I’m currently working on raising a six year old
 - 🏃 Fun fact: My goal for sometime soon is a 50km ultra-marathon
 
 ### 💻 Languages
